@@ -1,7 +1,6 @@
 # React_practial_tutorial
 
-### [codeSandbox](https://codesandbox.io/s/github/Abhi7836/React_Samples)
-Created with CodeSandbox
+Created with [CodeSandbox](https://codesandbox.io/s/github/Abhi7836/React_Samples)
 
 ## `1.ICON`
 
